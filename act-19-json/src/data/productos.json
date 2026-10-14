@@ -1,0 +1,23 @@
+[
+    {
+        "id":"p-01",
+        "nombre":"Molletes",
+        "precio":30,
+        "categoria":"comida",
+        "disponiblle":true
+    },
+    {
+        "id":"p-02",
+        "nombre":"Jugo de Naranja",
+        "precio":18,
+        "categoria":"bebida",
+        "disponiblle":true
+    },
+    {
+        "id":"p-03",
+        "nombre":"Sincronizada",
+        "precio":32,
+        "categoria":"comida",
+        "disponiblle":true
+    }
+]
